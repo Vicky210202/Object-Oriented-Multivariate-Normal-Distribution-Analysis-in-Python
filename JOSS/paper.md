@@ -182,9 +182,14 @@ $\mathrm{H_0}$
 $$F = \frac{1 - \sqrt[b]{\lambda^{*}}}{\sqrt[b]{\lambda^{*}}}\frac{ab - c}{p(g - 1)} \sim \mathcal{F}_{p(g~-~1),~ab~-~c}^{\alpha}$$
 where $$a = \sum\limits_{l = 1}^gn_l - g - \frac{p - g + 2}{2}$$ $$b = \left\{ \begin{array}{cr} \sqrt{\frac{p^2(g - 1)^2 - 4}{p^2 + (g - 1)^2 + 5}} &  ~\mathrm{if}~p^2 + (g - 1)^2 + 5 > 0  \\ 1  &  ;~\mathrm{if}~p^2 + (g - 1)^2 + 5 \leq 0 \end{array}\right.$$ $$c = \frac{p(g - 1) - 2}{2}$$
 
+The stabilized probability plot, with approximately equal variances of plotted points prompted the definition of a new goodness-of-fit statistic DSP. This statistic aids in constructing acceptance regions for QQ, pp, and the new plots, reducing subjectivity in interpretation were discussed by Michael (1983) and this inspired the creation of a specialized plot for visualizing hypothesis test results. The Critical and Acceptance Region plot is used for this purpose, providing a visual interpretation of the test outcomes. The concepts of hypothesis testing were referred from Rohatgi et al. (2002) and Lehmann (1986).
+
 </div>
 
 # Citations
+- Michael, J. R. (1983). *The stabilized probability plot.* Biometrika, 70(1), 11–17. [DOI: 10.1093/biomet/70.1.11](https://doi.org/10.1093/biomet/70.1.11)
+- Rohatgi, V. K., & others. (2002). *An Introduction to Probability and Statistics.* John Wiley.
+- Lehmann, E. L. (1986). *Testing of Statistical Hypotheses.* John Wiley.
 
 
 
