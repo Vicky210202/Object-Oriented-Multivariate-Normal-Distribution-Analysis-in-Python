@@ -43,5 +43,5 @@ Visualize
 ![MultiVariateNormal Package](FIGURES/Slide2.PNG)
 ![MultiVariateNormal Package](FIGURES/Slide3.PNG)
 
-#### By using MultiVariateNormal package , Problems in  Anderson, T. W. (2003). *An Introduction to Multivariate Statistical Analysis* (3rd ed.) and Johnson, R. A., & Wichern, D. W. (2002). *Applied Multivariate Statistical Analysis* (5th ed.) has been solved and presented both Jupyter book as well Python script file.
+#### By using MultiVariateNormal package , Problems in  Anderson, T. W. (2003). *An Introduction to Multivariate Statistical Analysis* (3rd ed.) and Johnson, R. A., & Wichern, D. W. (2002). *Applied Multivariate Statistical Analysis* (5th ed.) has been solved and presented in both Jupyter book source file as well as Python script file.
 
