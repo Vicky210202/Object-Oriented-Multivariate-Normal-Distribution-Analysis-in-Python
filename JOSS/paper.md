@@ -11,7 +11,11 @@ tags:
   - Wilk’s lambda
 authors:
   - name: Vignesh S 
-    orcid: 0009-0008-2692-1218 
+    orcid: 0009-0008-2692-1218
+    equal-contrib: true
+    affiliation: 1
+  - name: Dr. Suresh S
+    equal-contrib: true
     affiliation: 1     
 affiliations:
  - name: Universty of Madras, India 
