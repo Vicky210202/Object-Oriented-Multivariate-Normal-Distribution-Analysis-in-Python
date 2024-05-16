@@ -25,5 +25,22 @@ Visualize
 ------------------------------------------------------------------------
 - All test's null distribution curve with Critical and Acceptance Region
   plot (CAR plot) (if Visualable)
+  
+# Concept of Treating Multivariate Normal Distributions as Objects  
+![MultiVariateNormal Package](Figures/Slide4.PNG)
+![MultiVariateNormal Package](Figures/Slide5.PNG)
+
+# Software Details
+## Dependencies
+  1. Python - Programming language - 3.11.4 to 3.11.7
+  2. Numpy - 1.25.0 -  (for installation --> pip install numpy)
+  3. Pandas - 2.0.2 - (for installation --> pip install pandas )
+  4. SciPy - 1.11.1 -(for installation --> pip install scipy)
+  5. Matplotlib - 3.7.1 - (for installation --> pip install matplotlib)
+
+## Classes and Methods
+![MultiVariateNormal Package](Figures/Slide1.PNG)
+![MultiVariateNormal Package](Figures/Slide2.PNG)
+![MultiVariateNormal Package](Figures/Slide3.PNG)
 
 
