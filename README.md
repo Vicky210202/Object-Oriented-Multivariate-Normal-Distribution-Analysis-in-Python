@@ -27,8 +27,8 @@ Visualize
   plot (CAR plot) (if Visualable)
   
 # Concept of Treating Multivariate Normal Distributions as Objects  
-![MultiVariateNormal Package](Figures/Slide4.PNG)
-![MultiVariateNormal Package](Figures/Slide5.PNG)
+![MultiVariateNormal Package](FIGURES/Slide4.PNG)
+![MultiVariateNormal Package](FIGURES/Slide5.PNG)
 
 # Software Details
 ## Dependencies
@@ -39,8 +39,8 @@ Visualize
   5. Matplotlib - 3.7.1 - (for installation --> pip install matplotlib)
 
 ## Classes and Methods
-![MultiVariateNormal Package](Figures/Slide1.PNG)
-![MultiVariateNormal Package](Figures/Slide2.PNG)
-![MultiVariateNormal Package](Figures/Slide3.PNG)
+![MultiVariateNormal Package](FIGURES/Slide1.PNG)
+![MultiVariateNormal Package](FIGURES/Slide2.PNG)
+![MultiVariateNormal Package](FIGURES/Slide3.PNG)
 
 
