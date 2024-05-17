@@ -190,13 +190,18 @@ The stabilized probability plot, with approximately equal variances of plotted p
 
 </div>
 
-# Citations
-- Anderson, T. W. (2003). *An Introduction to Multivariate Statistical Analysis* (3rd ed.). John Wiley & Sons.
-- Johnson, R. A., & Wichern, D. W. (2002). *Applied Multivariate Statistical Analysis* (5th ed.). Prentice Hall.
-- Cheng, R. C. H. (1985). "Generation of multivariate normal samples with given sample mean and covariance matrix." *Journal of Statistical Computation and Simulation*, 21(1), 39–49. [DOI: 10.1080/00949658508810795](https://doi.org/10.1080/00949658508810795)
-- Michael, J. R. (1983). "The stabilized probability plot." *Biometrika*, 70(1), 11–17. [DOI: 10.1093/biomet/70.1.11](https://doi.org/10.1093/biomet/70.1.11)
-- Rohatgi, V. K., & others. (2002). *An Introduction to Probability and Statistics*. John Wiley.
-- Lehmann, E. L. (1986). *Testing of Statistical Hypotheses*. John Wiley.
-- [Python Software Foundation. (2001). *Python Software, Version 3.11.7*.](https://www.python.org)
-
 # References
+
+Anderson, T. W. (2003). *An Introduction to Multivariate Statistical Analysis* (3rd ed.). John Wiley & Sons.
+
+Johnson, R. A., & Wichern, D. W. (2002). *Applied Multivariate Statistical Analysis* (5th ed.). Prentice Hall.
+
+Cheng, R. C. H. (1985). "Generation of multivariate normal samples with given sample mean and covariance matrix." *Journal of Statistical  Computation and Simulation*, 21(1), 39–49. [DOI: 10.1080/00949658508810795](https://doi.org/10.1080/00949658508810795)
+
+Michael, J. R. (1983). "The stabilized probability plot." *Biometrika*, 70(1), 11–17. [DOI: 10.1093/biomet/70.1.11](https://doi.org/10.1093/biomet/70.1.11)
+
+Rohatgi, V. K., & others. (2002). *An Introduction to Probability and Statistics*. John Wiley.
+
+Lehmann, E. L. (1986). *Testing of Statistical Hypotheses*. John Wiley.
+
+[Python Software Foundation. (2001). *Python Software, Version 3.11.7*.](https://www.python.org)
