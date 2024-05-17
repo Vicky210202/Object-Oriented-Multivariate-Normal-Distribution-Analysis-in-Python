@@ -10,7 +10,7 @@ The multivariate normal distribution is a statistical concept that extends beyon
 Compute 
 -----------------------------------------------------------------------
 - Marginal distributions
-- Condtional distributions
+- Conditional distributions
 - Resultant distributions and covariance
 - Independence of variates
 - Partial correlations
