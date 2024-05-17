@@ -10,11 +10,11 @@ tags:
   - MANOVA
   - Wilk’s lambda
 authors:
-  - name: S Vignesh
+  - name: Vignesh S
     orcid: 0009-0008-2692-1218
     equal-contrib: true
     affiliation: 1
-  - name: Dr. S Suresh
+  - name: Dr. Suresh S
     equal-contrib: true
     affiliation: 1     
 affiliations:
